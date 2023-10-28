@@ -233,7 +233,7 @@ echo -e "\033[0;36m
   ☆★ ░▒█░░ ▒█░▒█ ▒█▄▄▀ ▒█▀▀▄ ▒█░░▒█ ▒█▒█▒█ ▒█▀▀▀ ░▒█░░─★☆
   ☆★ ░▒█░░ ░▀▄▄▀ ▒█░▒█ ▒█▄▄█ ▒█▄▄▄█ ▒█░░▀█ ▒█▄▄▄ ░▒█░░─★☆  \033[0m"
 echo -e "\033[0;36m╔═══════════════════════════•⊱✦⊰•═══════════════════════════╗\033[0m"
-echo -e "\033[0;36m \E[5;34;47m                   TURBONET_SSH_SCRIPT_PRO                 \E[0m \033[1;31m"
+echo -e "\033[0;36m \E[5;34;47m                   DIEGOSANTOS_SSH_SCRIPT_PRO                 \E[0m \033[1;31m"
 echo -e "\033[0;36m╚═══════════════════════════•⊱✦⊰•═══════════════════════════╝\033[0m"
 echo -e "\033[0;36m  \033[1;32mSISTEMA           \033[1;31m  \033[1;32mMEMÓRIA RAM      \033[1;31m \033[1;32m PROCESSADOR      \033[1;31m"
 echo -e "\033[0;36m  \033[1;36mOS: \033[1;37m$_system    \033[1;31m  \033[1;36mTotal:\033[1;37m$_ram \033[1;31m  \033[1;36mNucleos: \033[1;37m$_core\033[0m   \033[1;31m"
@@ -360,7 +360,7 @@ echo -e "\033[0;36m
   ☆★ ░▒█░░ ▒█░▒█ ▒█▄▄▀ ▒█▀▀▄ ▒█░░▒█ ▒█▒█▒█ ▒█▀▀▀ ░▒█░░─★☆
   ☆★ ░▒█░░ ░▀▄▄▀ ▒█░▒█ ▒█▄▄█ ▒█▄▄▄█ ▒█░░▀█ ▒█▄▄▄ ░▒█░░─★☆  \033[0m"
 echo -e "\033[0;36m╔═══════════════════════════•⊱✦⊰•═══════════════════════════╗\033[0m"
-echo -e "\033[0;36m \E[5;34;47m                   TURBONET_SSH_SCRIPT_PRO                 \E[0m \033[1;31m"
+echo -e "\033[0;36m \E[5;34;47m                   DIEGOSANTOS_SSH_SCRIPT_PRO                 \E[0m \033[1;31m"
 echo -e "\033[0;36m╚═══════════════════════════•⊱✦⊰•═══════════════════════════╝\033[0m"
 echo -e "\033[0;36m  \033[1;32mSISTEMA           \033[1;31m  \033[1;32mMEMÓRIA RAM      \033[1;31m \033[1;32m PROCESSADOR      \033[1;31m"
 echo -e "\033[0;36m  \033[1;36mOS: \033[1;37m$_system    \033[1;31m  \033[1;36mTotal:\033[1;37m$_ram \033[1;31m  \033[1;36mNucleos: \033[1;37m$_core\033[0m   \033[1;31m"
@@ -494,7 +494,7 @@ case "$x" in
    exit;
    ;;
    V | v)
-   bash <(curl -sL https://raw.githubusercontent.com/PhoenixxZ2023/multi-v2ray/v2ray.sh)
+   bash <(curl -sL https://raw.githubusercontent.com/Diegoprofeta/multi-v2ray/v2ray.sh)
    ;;
    *)
    echo -e "\n\033[1;31mOpcao invalida !\033[0m"
